@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\bin\Debug\properties.xml
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\bin\Debug\DynamicTypeTest.exe.config
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\bin\Debug\DynamicTypeTest.exe
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\bin\Debug\DynamicTypeTest.pdb
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.exe
+C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.pdb

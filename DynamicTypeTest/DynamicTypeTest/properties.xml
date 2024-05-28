@@ -1,0 +1,17 @@
+﻿<Properties>
+	<Property>
+		<Name>Property1</Name>
+		<Type>System.String</Type>
+		<Value>Sample Text</Value>
+		<Category>General</Category>
+		<DisplayName>Property 1</DisplayName>
+	</Property>
+	<Property>
+		<Name>Property2</Name>
+		<Type>System.Int32</Type>
+		<Value>123</Value>
+		<Category>General</Category>
+		<DisplayName>Property 2</DisplayName>
+	</Property>
+	<!-- 更多的属性 -->
+</Properties>

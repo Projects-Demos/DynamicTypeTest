@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+  <Property>
+    <Name>Property1</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Value>Sample Text</Value>
+    <Category>General</Category>
+    <DisplayName>Property 1</DisplayName>
+  </Property>
+  <Property>
+    <Name>Property2</Name>
+    <Type>System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Value>123</Value>
+    <Category>General</Category>
+    <DisplayName>Property 2</DisplayName>
+  </Property>
+  <Property>
+    <Name>NewProperty</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Value>DefaultValue</Value>
+    <Category>Dynamic</Category>
+    <DisplayName>New Property</DisplayName>
+  </Property>
+</Properties>
