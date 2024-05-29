@@ -9,3 +9,15 @@ C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\Dy
 C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.exe
 C:\Users\Administrator\source\repos\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.pdb
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\bin\Debug\properties.xml
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\bin\Debug\DynamicTypeTest.exe.config
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\bin\Debug\DynamicTypeTest.exe
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\bin\Debug\DynamicTypeTest.pdb
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.csproj.AssemblyReference.cache
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.csproj.SuggestedBindingRedirects.cache
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.Properties.Resources.resources
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.csproj.GenerateResource.cache
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.csproj.CoreCompileInputs.cache
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.exe
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\obj\Debug\DynamicTypeTest.pdb
+E:\02 Projects\Z999-Others\DynamicTypeTest\DynamicTypeTest\DynamicTypeTest\bin\Debug\MyDynamicClassProperties.xml

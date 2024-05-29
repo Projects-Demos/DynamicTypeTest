@@ -1,0 +1,7 @@
+﻿<Properties>
+	<Property Name="FirstName" Type="System.String" Value="John" Category="Identity" DisplayName="First Name" />
+	<Property Name="LastName" Type="System.String" Value="Doe" Category="Identity" DisplayName="Last Name" />
+	<Property Name="Age" Type="System.Int32" Value="30" Category="Personal" DisplayName="Age" />
+	<Property Name="Email" Type="System.String" Value="john.doe@example.com" Category="Contact" DisplayName="Email Address" />
+	<Property Name="IsActive" Type="System.Boolean" Value="true" Category="Status" DisplayName="Is Active" />
+</Properties>

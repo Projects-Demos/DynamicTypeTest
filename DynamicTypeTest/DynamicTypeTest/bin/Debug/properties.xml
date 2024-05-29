@@ -1,18 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Properties>
   <Property>
-    <Name>Property1</Name>
+    <Name>FirstName</Name>
     <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Value>Sample Text</Value>
-    <Category>General</Category>
-    <DisplayName>Property 1</DisplayName>
+    <Value>John</Value>
+    <Category>Identity</Category>
+    <DisplayName>First Name</DisplayName>
   </Property>
   <Property>
-    <Name>Property2</Name>
+    <Name>LastName</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Value>Doe</Value>
+    <Category>Identity</Category>
+    <DisplayName>Last Name</DisplayName>
+  </Property>
+  <Property>
+    <Name>Age</Name>
     <Type>System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Value>123</Value>
-    <Category>General</Category>
-    <DisplayName>Property 2</DisplayName>
+    <Value>30</Value>
+    <Category>Personal</Category>
+    <DisplayName>Age</DisplayName>
+  </Property>
+  <Property>
+    <Name>Email</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Value>john.doe@example.com</Value>
+    <Category>Contact</Category>
+    <DisplayName>Email Address</DisplayName>
+  </Property>
+  <Property>
+    <Name>IsActive</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Value>True</Value>
+    <Category>Status</Category>
+    <DisplayName>Is Active</DisplayName>
   </Property>
   <Property>
     <Name>NewProperty</Name>
